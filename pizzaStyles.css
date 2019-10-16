@@ -1,0 +1,54 @@
+body {
+	background-color:#A8D7E6;
+	color: navy;
+	font-family: Georgia, serif;
+}
+
+#pageTitle {
+	text-align: center;
+	height: 50px;
+}
+
+h1 {
+	border: 2px solid maroon;
+}
+
+.boldMe {
+	font-weight: bold;
+}
+
+.meat {
+	color: brown;
+}
+
+.veggie {
+	color: green;
+}
+
+.cheese {
+	color: darkorange;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+.centerList {
+	margin: auto;
+	width: 75%;
+	text-align: center;
+	list-style-position: inside;
+}
+
+.container {
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+}
+
+.parentContainer {
+	text-align: center;
+}
